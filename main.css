@@ -1,0 +1,51 @@
+h1 {
+	font-size: 3em;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+#store { 
+	background-color: slategray;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 1em;
+	font-color: #123456;
+	line-height: 1.3em;
+	padding: 5px;
+	border: 5px solid black;
+	border-radius: 5%;
+}
+
+#bath { 
+	background-color: blue;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 2em;
+	font-color: #abcdef;
+	line-height: 1.5em;
+	padding: 7px;
+	border: 10px outset firebrickred;
+	border-radius: 30%;
+}
+
+#dinner { 
+	background-color: green;
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 3em;
+	font-color: a1b2c3;
+	line-height: 1.7em;
+	padding: 9px;
+	border: 15px dashed yellow;
+	border-radius: 50%;
+}
+
+
+/*
+FOR EACH ARTICLE -----
+	A different background color.
+	A different font family.
+	A different font size.
+	A different font color.
+	A different line height.
+	A different padding value.
+	Each should have a border, but with rounded corners of different size 
+	(e.g. one article could have barely rounded borders, but the next one could be almost circular in shape)
+*/
+
